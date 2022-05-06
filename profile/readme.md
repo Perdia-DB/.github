@@ -10,23 +10,23 @@ A open-source SQL-like database.
 |-|-|
 |Name|Perdia-DB|
 |Teammitglieder|Julian Burger <br> David Koch|
-|Beschreibung|Perdia-DB ist eine daten bank die Daten strukturen abspeichern kann. <br> Man kann vorgeben wie die Daten gruppiert werden sollen <br> und danach Objecte nach diesem Schema abspeichern.|
+|Beschreibung|Perdia-DB ist eine Datenbank die Datenstrukturen abspeichern kann. <br> Man kann vorgeben wie die Daten gruppiert werden sollen und danach Objekte nach diesem Schema abspeichern.|
 
 ### Ziele
-#### Muss Ziele
+#### Muss-Ziele
 - [ ] Perdia-DB
   - [x] Lexing & Parsing 
-  - [x] Template Creation
-  - [x] Template Instantiation
+  - [x] Template creation
+  - [x] Template instantiation
   - [ ] Data querying
 - [ ] Java-Client
-  - [ ] TCP-IP querries
+  - [ ] TCP-IP queries
   - [ ] Data parsing
   - [ ] Typesafe interface
 - [ ] Java-GUI
   - [ ] Get data from DB
   - [ ] Display data graphically
 
-#### Kann Ziele
+#### Kann-Ziele
 - [ ] Client in another language
 - [ ] Restful-DB
