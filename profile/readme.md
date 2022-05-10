@@ -18,7 +18,10 @@ A open-source SQL-like database.
   - [x] Lexing & Parsing 
   - [x] Template creation
   - [x] Template instantiation
-  - [ ] Data querying
+  - [x] Data querying
+  - [ ] Add Webserver
+  - [ ] Add Securelayer
+  - [ ] Add storage thread
 - [ ] Java-Client
   - [ ] TCP-IP queries
   - [ ] Data parsing
