@@ -33,3 +33,4 @@ A open-source SQL-like database.
 #### Kann-Ziele
 - [ ] Client in another language
 - [ ] Restful-DB
+- [ ] Rework pang to use an ast instead of horrible match statement (Perdia-DB)
