@@ -19,9 +19,9 @@ A open-source SQL-like database.
   - [x] Template creation
   - [x] Template instantiation
   - [x] Data querying
-  - [ ] Add Webserver
-  - [ ] Add Securelayer
-  - [ ] Add storage thread
+  - [x] Add Webserver
+  - [x] Add Securelayer
+  - [x] Add storage thread
 - [ ] Java-Client
   - [ ] TCP-IP queries
   - [ ] Data parsing
@@ -31,6 +31,6 @@ A open-source SQL-like database.
   - [ ] Display data graphically
 
 #### Kann-Ziele
-- [ ] Client in another language
-- [ ] Restful-DB
+- [ ] Improve performance on secure layer
 - [ ] Rework pang to use an ast instead of horrible match statement (Perdia-DB)
+- [ ] Client in another language
