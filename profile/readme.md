@@ -14,7 +14,7 @@ A open-source SQL-like database.
 
 ### Ziele
 #### Muss-Ziele
-- [ ] Perdia-DB
+- [x] Perdia-DB
   - [x] Lexing & Parsing 
   - [x] Template creation
   - [x] Template instantiation
