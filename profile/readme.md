@@ -23,7 +23,7 @@ A open-source SQL-like database.
   - [x] Add Securelayer
   - [x] Add storage thread
 - [ ] Java-Client
-  - [ ] TCP-IP queries
+  - [X] TCP-IP queries
   - [ ] Data parsing
   - [ ] Typesafe interface
 - [ ] Java-GUI
