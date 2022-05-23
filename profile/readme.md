@@ -34,3 +34,4 @@ A open-source SQL-like database.
 - [ ] Improve performance on secure layer
 - [ ] Rework pang to use an ast instead of horrible match statement (Perdia-DB)
 - [ ] Client in another language
+- [ ] Reasonable performance (on idle)
