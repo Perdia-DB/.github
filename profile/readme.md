@@ -24,6 +24,8 @@ A open-source SQL-like database.
   - [x] Add storage thread
 - [ ] Java-Client
   - [X] TCP-IP queries
+  - [X] Decryption & Encryption of queries
+  - [ ] Query presets
   - [ ] Data parsing
   - [ ] Typesafe interface
 - [ ] Java-GUI
