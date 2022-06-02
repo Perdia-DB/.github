@@ -27,7 +27,7 @@ A open-source SQL-like database.
   - [X] Decryption & Encryption of queries
   - [X] Query presets
   - [ ] Data parsing
-  - [ ] Typesafe interface
+  - [X] Typesafe interface
 - [ ] Java-GUI
   - [ ] Get data from DB
   - [ ] Display data graphically
