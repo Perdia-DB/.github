@@ -26,14 +26,15 @@ A open-source SQL-like database.
   - [X] TCP-IP queries
   - [X] Decryption & Encryption of queries
   - [X] Query presets
-  - [ ] Data parsing
+  - [X] Data parsing
   - [X] Typesafe interface
+  - [ ] JavaDoc documentation
 - [ ] Java-GUI
   - [ ] Get data from DB
   - [ ] Display data graphically
 
 #### Kann-Ziele
 - [ ] Improve performance on secure layer
-- [ ] Rework pang to use an ast instead of horrible match statement (Perdia-DB)
+- [ ] Rework pang to use an AST instead of a horrible match statement (Perdia-DB)
 - [ ] Client in another language
-- [ ] Reasonable performance (on idle)
+- [ ] Reasonable CPU performance (Perdia-DB, on idle)
