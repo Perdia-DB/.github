@@ -34,7 +34,6 @@ A open-source SQL-like database.
   - [ ] Display data graphically
 
 #### Kann-Ziele
-- [ ] Improve performance on secure layer
-- [ ] Rework pang to use an AST instead of a horrible match statement (Perdia-DB)
+- [x] Rework pang to use an AST instead of a horrible match statement (Perdia-DB)
 - [ ] Client in another language
-- [ ] Reasonable CPU performance (Perdia-DB, on idle)
+- [x] Reasonable CPU performance (Perdia-DB, on idle)
