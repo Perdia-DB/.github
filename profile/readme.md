@@ -22,13 +22,13 @@ A open-source SQL-like database.
   - [x] Add Webserver
   - [x] Add Securelayer
   - [x] Add storage thread
-- [ ] Java-Client
+- [X] Java-Client
   - [X] TCP-IP queries
   - [X] Decryption & Encryption of queries
   - [X] Query presets
   - [X] Data parsing
   - [X] Typesafe interface
-  - [ ] JavaDoc documentation
+  - [X] JavaDoc documentation
 - [ ] Java-GUI
   - [ ] Get data from DB
   - [ ] Display data graphically
