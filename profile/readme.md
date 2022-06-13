@@ -29,14 +29,13 @@ A open-source SQL-like database.
   - [X] Data parsing
   - [X] Typesafe interface
   - [X] JavaDoc documentation
-- [ ] ExampleApplication
+- [x] ExampleApplication
   - [x] Java RESTful-API Backend
   - [x] Java ORM Blog usage
   - [x] Rust frontend architecture
-  - [ ] Add Posts
+  - [x] Add Posts
   - [x] Delete Posts
   - [x] View Posts
-  - [ ] Dockerize
 
 #### Kann-Ziele
 - [x] Rework pang to use an AST instead of a horrible match statement (Perdia-DB)
