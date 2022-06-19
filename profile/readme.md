@@ -1,6 +1,9 @@
 # Perdia
 A open-source SQL-like database.
 
+## Note
+Perdia-DB was just a small project for our 2nd year Software-Developement final, we do not intend to continue working on it.
+The overall design decisions we took are questionable, but it was fun. 
 
 ## Pflichtenheft
 *This is a short summary for our school project.*
